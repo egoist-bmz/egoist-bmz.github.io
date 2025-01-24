@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BMZ Blog</title>
+  
+  <subtitle>层楼终究误少年</subtitle>
+  <link href="https://dive2cloud-bmz.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dive2cloud-bmz.github.io/"/>
+  <updated>2025-01-24T02:56:50.029Z</updated>
+  <id>https://dive2cloud-bmz.github.io/</id>
+  
+  <author>
+    <name>Mingzhou Bie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2025-01-23 First Record</title>
+    <link href="https://dive2cloud-bmz.github.io/2025/01/23/2025-01-23-First-Record/"/>
+    <id>https://dive2cloud-bmz.github.io/2025/01/23/2025-01-23-First-Record/</id>
+    <published>2025-01-23T06:46:57.000Z</published>
+    <updated>2025-01-24T02:56:50.029Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;为什么写博客&quot;&gt;&lt;a href=&quot;#为什么写博客&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Chat" scheme="https://dive2cloud-bmz.github.io/categories/Chat/"/>
+    
+    
+    <category term="Chat" scheme="https://dive2cloud-bmz.github.io/tags/Chat/"/>
+    
+  </entry>
+  
+</feed>
